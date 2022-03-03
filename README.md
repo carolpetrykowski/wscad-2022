@@ -1,24 +1,13 @@
 # wscad-2022
 
-## Project setup
+## Baixar dependências/bibliotecas (configurar projeto para rodar)
+### OBS: só é necessário na primeira vez que vai rodar
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Subir site localmente
+### OBS: Geralmente sobre no endereço http://localhost:8080/ 
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
